@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ccrenshawcodes
-- 👀 I’m interested in seeing how much I can learn as a self-taught programmer!
-- 🌱 I’m currently working through the Odin Project and loving it. I've previously completed courses in HTML/CSS/JS, SQL and Python.
+- 👀 I am a self-taught programmer working towards my first development position.
+- 🌱 I’m currently moving through the Odin Project on the JavaScript/Node course.
 
 
 <!---
