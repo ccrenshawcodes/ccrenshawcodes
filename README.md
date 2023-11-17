@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ccrenshawcodes
-- 👀 I am a self-taught programmer working towards my first development position.
+- 👀 I am a self-taught software engineer working towards my first development position.
 - 🌱 I’m currently moving through the Odin Project on the JavaScript/Node course.
 
 
